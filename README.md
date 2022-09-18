@@ -1,6 +1,6 @@
-# nextjs
+# my_nextjs_boiler-plate
 
-nextjs
+nextjs 초기 환경 세팅
 
 <br />
 
