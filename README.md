@@ -1,10 +1,16 @@
-# my_nextjs_boiler-plate
+# 🧑🏻‍💻 my_nextjs_boiler-plate
 
 nextjs 초기 환경 세팅
 
+- nextjs
+- commitlint
+- typescript
+- eslint & prettier
+- husky & lint-staged
+
 <br />
 
-## setting
+## ⚙️ setting
 
 ```
 chmod +x .husky/*
